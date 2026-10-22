@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # =============================================================================
 # GenieACS ORI — installer otomatis satu-file untuk Ubuntu/Debian CT
+# Penulis: AWG-NET
 #
 # Cara pakai di CT (sebagai root):
 #   curl -fsSL https://raw.githubusercontent.com/DomeiNokiO/genieacs-installer/master/install.sh -o install.sh
